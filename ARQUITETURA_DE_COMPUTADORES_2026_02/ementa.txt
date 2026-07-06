@@ -1,0 +1,11 @@
+Arquitetura de Computadores 1  
+60 horas-relógio 
+72 horas-aula 
+
+Abstração e Tecnologias computacionais: Classes de Computadores; Funcionamento de um Computador em nível de hardware e software; Componentes principais de um computador; Definição de arquitetura de Computadores; Tecnologias para construir processadores e memórias; Medidas de desempenho. 
+
+Instruções em linguagem de montagem e de máquina: Operações e operandos; Números com sinal e sem sinal; codificação de uma instrução; operações lógicas; Instruções para tomadas de decisão; Suporte a procedimentos no hardware do computador; endereçamento de memória. 
+
+Aritmética Computacional: Adição e Subtração; Projeto Lógico de uma Unidade Lógica e Aritmética; Divisão e Multiplicação; Ponto Flutuante. 
+
+Implementação de um processador: Construção de um caminho de dados e controle para um processador simples; Pipeline; Hazards estruturais, de dados e de controle; Exceções; Hierarquia de Memória: Tecnologias de Memórias; Princípios básicos de Cache; Máquinas Virtuais e Memória Virtual. 

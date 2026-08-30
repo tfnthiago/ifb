@@ -1,6 +1,4 @@
 Arquitetura de Computadores 1  
-60 horas-relógio 
-72 horas-aula 
 
 Abstração e Tecnologias computacionais: Classes de Computadores; Funcionamento de um Computador em nível de hardware e software; Componentes principais de um computador; Definição de arquitetura de Computadores; Tecnologias para construir processadores e memórias; Medidas de desempenho. 
 
